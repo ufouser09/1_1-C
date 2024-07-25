@@ -1,0 +1,13 @@
+Soru 1:
+a- 24
+b- void
+c- x == x%10
+d- sizeof(d)/sizeof(d[0])
+e- strncpy(s1+1, s2+2, 1)
+
+Soru 2:
+- scanf fonksiyonunda & eksik.
+- karakter değişkene çift tırnak ile atama.
+- s değişkenine başlangıç değeri verilmemiş.
+- math.h include edilmemiş.
+- döngü kontrolü i değişkeninde, ama döngü içinde i güncelleniyor. Sonsuz döngü ihtimali.

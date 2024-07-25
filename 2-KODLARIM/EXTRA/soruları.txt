@@ -1,0 +1,12 @@
+Ali Hocanın verdiği ödev:
+Klavyeden girilen bir karakterli elemanın rakam mı, büyük harf mi, küçük harf mi, yoksa başka bir şey (katogeri) mi; onu gösteren programı yapacağız. Kullanıcı istediği kadar eleman girebilecek. 
+Sanki sonsuza kadar çalışacakmış gibi yapacağız. 
+Ali Hoca " Klavyeden '+' ya bastığınızda program sonlansın gibi bir şey yapabilirsiniz. " dedi. 
+
+
+
+
+
+
+
+
